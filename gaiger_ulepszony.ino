@@ -50,9 +50,4 @@ void loop() {
 }
 void licznik(){
      rozp= rozp + 1 ;
-     
-
-     
-     
-
 }
